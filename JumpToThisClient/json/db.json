@@ -1,0 +1,173 @@
+{
+    "year": 2020,
+    "term": "Spring",
+    "courses": [
+        {
+            "code": "CS6363.001",
+            "name": "Database Design",
+            "prof": "Nurjan",
+            "days": {
+                "Monday": "16:00-18:00",
+                "Wednesday": "16:00-18:00"
+            },
+            "totalSeats": 40,
+            "currSeats": 30,
+            "location": "ECSS 2.134"
+        },
+        {
+            "code": "CS1234.002",
+            "name": "Machine Learning",
+            "prof": "Anurag Nagar",
+            "days": {
+                "Monday": "16:00-18:00",
+                "Wednesday": "16:00-18:00"
+            },
+            "totalSeats": 40,
+            "currSeats": 30,
+            "location": "ECSS 2.134"
+        },
+        {
+            "code": "CS5678.003",
+            "name": "Data Structures",
+            "prof": "Greg Ozbirn",
+            "days": {
+                "Monday": "16:00-18:00",
+                "Wednesday": "16:00-18:00"
+            },
+            "totalSeats": 40,
+            "currSeats": 30,
+            "location": "ECSS 2.134"
+        },
+        {
+            "code": "CS6163.001",
+            "name": "Database Design",
+            "prof": "Nurjan",
+            "days": {
+                "Monday": "16:00-18:00",
+                "Wednesday": "16:00-18:00"
+            },
+            "totalSeats": 40,
+            "currSeats": 30,
+            "location": "ECSS 2.134"
+        },
+        {
+            "code": "CS1267.001",
+            "name": "Database Design",
+            "prof": "Nurjan",
+            "days": {
+                "Monday": "16:00-18:00",
+                "Wednesday": "16:00-18:00"
+            },
+            "totalSeats": 40,
+            "currSeats": 30,
+            "location": "ECSS 2.134"
+        },
+        {
+            "code": "CS1233.001",
+            "name": "Database Design",
+            "prof": "Nurjan",
+            "days": {
+                "Monday": "16:00-18:00",
+                "Wednesday": "16:00-18:00"
+            },
+            "totalSeats": 40,
+            "currSeats": 30,
+            "location": "ECSS 2.134"
+        },
+        {
+            "code": "CS6313.001",
+            "name": "Database Design",
+            "prof": "Nurjan",
+            "days": {
+                "Monday": "16:00-18:00",
+                "Wednesday": "16:00-18:00"
+            },
+            "totalSeats": 40,
+            "currSeats": 30,
+            "location": "ECSS 2.134"
+        },
+        {
+            "code": "CS6453.001",
+            "name": "Database Design",
+            "days": {
+                "Monday": "16:00-18:00",
+                "Wednesday": "16:00-18:00"
+            },
+            "totalSeats": 40,
+            "currSeats": 30,
+            "location": "ECSS 2.134"
+        },
+        {
+            "code": "CS6789.001",
+            "name": "Database Design",
+            "prof": "Nurjan",
+            "days": {
+                "Monday": "16:00-18:00",
+                "Wednesday": "16:00-18:00"
+            },
+            "totalSeats": 40,
+            "currSeats": 30,
+            "location": "ECSS 2.134"
+        },
+        {
+            "code": "CS0773.001",
+            "name": "Database Design",
+            "prof": "Nurjan",
+            "days": {
+                "Monday": "16:00-18:00",
+                "Wednesday": "16:00-18:00"
+            },
+            "totalSeats": 40,
+            "currSeats": 30,
+            "location": "ECSS 2.134"
+        },
+        {
+            "code": "CS1111.001",
+            "name": "Database Design",
+            "prof": "Nurjan",
+            "days": {
+                "Monday": "16:00-18:00",
+                "Wednesday": "16:00-18:00"
+            },
+            "totalSeats": 40,
+            "currSeats": 30,
+            "location": "ECSS 2.134"
+        },
+        {
+            "code": "CS1234.001",
+            "name": "Database Design",
+            "prof": "Nurjan",
+            "days": {
+                "Monday": "16:00-18:00",
+                "Wednesday": "16:00-18:00"
+            },
+            "totalSeats": 40,
+            "currSeats": 30,
+            "location": "ECSS 2.134"
+        },
+        {
+            "code": "CS5678.001",
+            "name": "Database Design",
+            "prof": "Nurjan",
+            "days": {
+                "Monday": "16:00-18:00",
+                "Wednesday": "16:00-18:00"
+            },
+            "totalSeats": 40,
+            "currSeats": 30,
+            "location": "ECSS 2.134"
+        },
+        {
+            "code": "CS6779.001",
+            "name": "Database Design",
+            "prof": "Nurjan",
+            "days": {
+                "Monday": "16:00-18:00",
+                "Wednesday": "16:00-18:00"
+            },
+            "totalSeats": 40,
+            "currSeats": 30,
+            "location": "ECSS 2.134"
+        }
+    ]
+}
