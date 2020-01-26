@@ -2,11 +2,12 @@
 Search was revolutionized by Google, and today it's the leader amongst all. Why is it so? Because it never stagnates!
 
 # Motivation
-Lets think of some situations,
-I wanna see a part of a Friends episode amongs all season where Brad Pitt shows up. 
-I wanna see the airport battle in Captain America: Civil War.
-I wanna only watch the heated moments in a football match, nobody likes the fillers right? 
-Or anything random like, I wanna watch penguins from a video about Antarctica on NatGeo!
+Lets think of some situations.
+* I wanna see a part of a Friends episode amongs all season where Brad Pitt shows up. 
+* I wanna see the airport battle in Captain America: Civil War.
+* I wanna only watch the heated moments in a football match, nobody likes the fillers right? 
+* Or anything random like, I wanna watch penguins from a video about Antarctica on NatGeo!
+
 But the issue is, -pause, that nobody remembers the actual timestamps. You don't know when your desired content occurs in the video :(
 
 Have you ever thought it would have been better if we were able to jump to our favorite portion of the video without actually seeking
