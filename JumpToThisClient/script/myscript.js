@@ -260,13 +260,9 @@ function createCourseGrid(data) {
             };
 
             function myFunction(explicitArr, videoThumb) {
-                console.log(explicitArr);
-                console.log(explicitArr.indexOf(parseInt(videoThumb.currentTime)));
-                console.log(parseInt(videoThumb.currentTime));
-                console.log("kid mode" + kidMode);
-                if ((explicitArr.indexOf(parseInt(videoThumb.currentTime)) == true || 
-                    explicitArr.indexOf(parseInt(videoThumb.currentTime)) >=0) && kidMode) {
-                    videoThumb.currentTime = videoThumb.currentTime + 4;
+                if ((explicitArr.indexOf(parseInt(videoThumb.currentTime+1)) == true || 
+                    explicitArr.indexOf(parseInt(videoThumb.currentTime+1)) >=0) && kidMode) {
+                    videoThumb.currentTime = videoThumb.currentTime + 5;
                 }
             }
         }

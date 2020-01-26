@@ -21,5 +21,6 @@ recognition.onresult = (event) => {
 }
 
 function transcribe() {
+    recognition.stop();
     recognition.start();
 }

@@ -11,7 +11,7 @@ async function main() {
     /**
      * TODO(developer): Uncomment the following line before running the sample.
      */
-    const gcsUri = 'gs://jumptothat20/videoplayback.mp4';
+    const gcsUri = 'gs://bucket_jumper/addicted.mp4';
 
     const request = {
         inputUri: gcsUri,
