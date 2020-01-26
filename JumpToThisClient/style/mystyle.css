@@ -14,7 +14,7 @@ body {
     font-family: sans-serif;
     font-weight: 700;
     color: #555252;
-    margin: 15px;
+    margin: 6px 15px 15px 15px;
 }
 
 .search_block{
@@ -49,7 +49,7 @@ body {
     background-position: 10px 10px;
     background-repeat: no-repeat;
     font-size: 16px;
-    width: 40%;
+    width: 100%;
     padding: 12px 20px 12px 40px;
     border-radius: 25px;
     border: 5px dashed #413838;
@@ -58,6 +58,38 @@ body {
 
 input:focus {
     outline:none !important;
+}
+
+.input_mic {
+    font-size: 3em;
+    color: #5c5cb8;
+}
+
+
+.mic_listen {
+    /* Start the shake animation and make the animation last for 0.5 seconds */
+    animation: shake 1s;
+    color: #b23f3f;
+    /* When the animation is finished, start again */
+    animation-iteration-count: infinite;
+  }
+  
+  @keyframes shake {
+    0% { transform: translate(1px, 1px) rotate(0deg); }
+    10% { transform: translate(-1px, -2px) rotate(-1deg); }
+    20% { transform: translate(-3px, 0px) rotate(1deg); }
+    30% { transform: translate(3px, 2px) rotate(0deg); }
+    40% { transform: translate(1px, -1px) rotate(1deg); }
+    50% { transform: translate(-1px, 2px) rotate(-1deg); }
+    60% { transform: translate(-3px, 1px) rotate(0deg); }
+    70% { transform: translate(3px, 1px) rotate(-1deg); }
+    80% { transform: translate(-1px, -1px) rotate(1deg); }
+    90% { transform: translate(1px, 2px) rotate(0deg); }
+    100% { transform: translate(1px, -2px) rotate(-1deg); }
+  }
+
+.input_mic:hover {
+    color: #b23f3f;
 }
 
 .filter_div {
@@ -202,3 +234,13 @@ input:checked + .slider:before {
 .slider.round:before {
     border-radius: 50%;
 }
+
+
+@media only screen and (max-width: 600px) {
+    .title_block {
+        display: flex;
+        flex-wrap: wrap;
+        width: 70%;
+        justify-content: space-evenly;
+    }
+  }

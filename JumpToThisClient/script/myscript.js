@@ -183,7 +183,7 @@
 let kidMode = false;
 
 let data = {
-    "videos" : [antarctica, wrestling, train, basketball, dog, food, bank, cats, naruto, football, addicted]
+    "videos" : [train, basketball, dog, food, bank, cats, wrestling,antarctica, naruto, football , addicted]
 }
 
 function searchCourse() {
