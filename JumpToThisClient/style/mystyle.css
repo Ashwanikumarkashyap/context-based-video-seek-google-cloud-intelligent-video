@@ -4,8 +4,9 @@
 
 body {
     text-align: center;        
-    background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
-    background: linear-gradient(110deg, #fdcd3b 60%, #959381 60%);
+    /* background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%); */
+    /* background: linear-gradient(110deg, #fdcd3b 60%, #959381 60%); */
+    background: linear-gradient(110deg, #fdcd3b 1000px, #959381 60px);
 
 }
 
