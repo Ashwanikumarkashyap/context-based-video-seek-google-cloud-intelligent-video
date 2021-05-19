@@ -9,9 +9,9 @@ Have you ever thought it would have been better if we were able to jump to our f
 manually in the video? Wouldn't it be cool if you just type/say what you want to see and automatically get the location to that part of the video?
 
 # Solution
-The solution is here! Presenting the most innovative, out of the box solution where you just type/say what you want to see and get the location of those videos/portions of the videos you seeked for. No more manual scrolling required!
+The solution is here! Presenting the most innovative, out of the box solution where you just type/say what you want to see and this project filters all the videos having the context of your search query. Our project filers the all the videos and highlights the portion of the video where the searched context appears in that video. No more manual seeking to the timestamp is required.
 
-The project utilizes Google's Cloud Video Intelligence, Cloud Speech-to-Text API, Google Cloud Storage via Google Cloud Platform and  using Node.js for the integration of everything.
+The project utilizes Google's Cloud Video Intelligence, Cloud Speech-to-Text API, Google Cloud Storage via Google Cloud Platform and uses Node.js for the integration of everything.
 
 This solution will not only help build a better customer experience for video streaming sites like YouTube, Netflix, Amazon Prime Video etc., but would also help in better categorization of the content, that can be recommended to the users in future. It also helps filter explicit content with the provided kids mode. Not to forget the portion of the topic you want to study a day before the exam from the MIT OpenCourseWare.
 
